@@ -1,5 +1,5 @@
 # simple-counter
-<img width="543" alt="截圖 2023-01-04 上午12 32 24" src="https://user-images.githubusercontent.com/112834036/210399702-dedb4235-68f1-45e8-b55f-08761b355087.png
+<img width="543" alt="截圖 2023-01-04 上午12 32 24" src="https://user-images.githubusercontent.com/112834036/210401015-d2cc8242-a88a-4793-9a1b-045595820e9c.png">
 
 ASTRO Camp 的JavaScript課程，小專案練習。
 透過實際的寫一小段js的code，加深HTML的運作流程及原理。
