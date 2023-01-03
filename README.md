@@ -1,4 +1,4 @@
-# simple-counter
+# simple-counter (簡易計數器)
 <img width="543" alt="截圖 2023-01-04 上午12 32 24" src="https://user-images.githubusercontent.com/112834036/210401015-d2cc8242-a88a-4793-9a1b-045595820e9c.png">
 
 ASTRO Camp 的JavaScript課程，小專案練習。
